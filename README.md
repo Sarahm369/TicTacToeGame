@@ -30,5 +30,6 @@ New developers will often be asked to get up to speed on a project rapidly. It i
 My questions are:
 explain the minimax class and how it determines the player moves
 explain the encapsulation of the player types in the player factory class/ enum
-
-
+Thing that are more clear after lecture:
+use enum to past a list of player types back to the playerFactory class 
+types can be declared in the class but not necessary
